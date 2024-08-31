@@ -7,13 +7,13 @@ CraftyCommerce is an online marketplace for handmade goods.
 ## contributions Descriptions
 
 - **Sourav**
-  - **`custome-reviews.html`**: This file demonstrates the basic customer reviews page. It creates an HTML boilerplate code and adds a heading tag.
+  - **`custome-reviews.html`**: 
 
 - **Raj**
-  - **`product-listing.html`**: This file demonstrates the basic product listing page. It creates an HTML boilerplate code and adds a heading tag.
+  - **`product-listing.html`**:
 
 - **Puja**
-  - **`shopping-cart.html`**: This file demonstrates the basic shopping cart page. It creates an HTML boilerplate code and adds a heading tag.
+  - **`shopping-cart.html`**: 
 
 ## Instructions
 
